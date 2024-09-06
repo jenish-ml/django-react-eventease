@@ -23,15 +23,18 @@ This is a simple React-based Event Management App that allows users to create, v
    cd event-management-app
 2. **Install dependencies:**
 
-    ```npm install
+    ```bash
+    npm install
 
 3. **Configure the Backend:**
 
-    ```python manage.py runserver
+    ```bash
+    python manage.py runserver
 
 4. **Start the React app:**
 
-   ```npm start
+   ```bash
+   npm start
 
 ## Usage
 
