@@ -51,9 +51,10 @@ This is a simple React-based Event Management App that allows users to create, v
     Click the "Delete" button next to an event to remove it from the list.
 
 ## API Endpoints
-  GET /api/events/ - Fetch all events
-  POST /api/events/ - Create a new event
-  DELETE /api/events/
-  / - Delete an event by ID
+
+  - **GET /api/events/ - Fetch all events**
+  - **POST /api/events/ - Create a new event**
+  - **DELETE /api/events/**
+  - **/ - Delete an event by ID**
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
